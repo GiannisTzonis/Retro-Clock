@@ -1,0 +1,1 @@
+Building a clock was my first project-challenge. Good practise on setRotation() js compiled with css.
